@@ -1,0 +1,18 @@
+export const theme = {
+  bg: '#0a0e1a',
+  bg2: '#111827',
+  bg3: '#1a2235',
+  surface: '#1e293b',
+  surface2: '#253349',
+  text: '#e2e8f0',
+  text2: '#94a3b8',
+  accent: '#6366f1',
+  accent2: '#818cf8',
+  accentGlow: 'rgba(99, 102, 241, 0.3)',
+  green: '#34d399',
+  orange: '#fb923c',
+  pink: '#f472b6',
+  cyan: '#22d3ee',
+  radius: 16,
+  radiusSm: 10,
+};
